@@ -1,0 +1,1 @@
+{"version":3,"file":"postgresSQL.js","sourceRoot":"","sources":["../../model/postgresSQL.ts"],"names":[],"mappings":";;;AAAA,2BAA4B;AAEf,QAAA,MAAM,GAAG,IAAI,WAAM,CAAC;IAC7B,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,cAAc;IACpC,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,kBAAkB;IACxC,IAAI,EAAE,IAAI;IACV,IAAI,EAAE,WAAW;IACjB,IAAI,EAAE,UAAU;CACnB,CAAC,CAAC"}
